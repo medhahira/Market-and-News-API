@@ -14,7 +14,7 @@ import csv
 
 
 POLYGON_API_KEY = "HjSE_LcYHDoPjpwrjoSkLYF4IovnDtdF"
-ALPHA_API_KEY = "H5YB6SA2K0XMWH2H"
+#ALPHA_API_KEY 
 
 # names of csv files containing ticker data
 FILE1 = "digital_currency.csv"
