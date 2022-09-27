@@ -13,7 +13,7 @@ import requests
 import csv
 
 
-POLYGON_API_KEY = "HjSE_LcYHDoPjpwrjoSkLYF4IovnDtdF"
+#POLYGON_API_KEY 
 #ALPHA_API_KEY 
 
 # names of csv files containing ticker data
